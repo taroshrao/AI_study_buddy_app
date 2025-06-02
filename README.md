@@ -111,5 +111,3 @@ AI_study_buddy_app/
 ---
 ```
 
-This README provides clear instructions for setup, usage, and submission, making it easy for anyone to clone and run your project.
-
