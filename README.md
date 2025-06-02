@@ -1,11 +1,11 @@
 
 
-```markdown
+
 # AI Study Buddy – Your Personalized Study Chatbot 🤖📚
 
 A Streamlit-powered web application that acts as your AI study assistant. Ask questions, summarize notes, or generate multiple-choice questions (MCQs) on any topic—all through a simple web interface.
 
----
+```markdown
 
 ## Features
 
