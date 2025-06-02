@@ -26,9 +26,6 @@ A Streamlit-powered web application that acts as your AI study assistant. Ask qu
 
 #### For Mac/Linux Users
 
-```
-
-
 # Create and enter a folder
 
 mkdir AI_study_buddy_app
@@ -73,8 +70,6 @@ streamlit run ai_study_buddy_streamlit.py
 
 ```
 
----
-
 ## Using the App
 
 1. **After running the app**, your browser will open at `http://localhost:8501`.
@@ -82,8 +77,6 @@ streamlit run ai_study_buddy_streamlit.py
    - **Ask a Question**: Type your question and click "Get Answer".
    - **Summarize Notes**: Paste your notes and click "Summarize".
    - **Generate MCQs**: Enter a topic and click "Generate".
-
----
 
 ## File Structure
 
@@ -94,8 +87,6 @@ AI_study_buddy_app/
 └── venv/                          \# (Optional) Virtual environment directory
 
 ```
-
----
 
 ## Notes
 
@@ -108,6 +99,5 @@ AI_study_buddy_app/
 
 **Submit your GitHub repository link** as instructed by your assignment.
 
----
 ```
 
